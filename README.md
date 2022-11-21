@@ -1,1 +1,3 @@
 # Lab 8 - Starter
+1. Choice 1 - Within a GitHub action that runs whenever code is pushed. The reason why we would want to fit automated tests when we push is we want to make sure that whatever code we are adding passes some sort of benchmark. Manually running automated tests is a contradiction and if we ran them all after development is completed, we wouldn't know if we were doing it correct the whole time. So the purpose of automated tests should be to consistently check when code is up to a certain standard before it is officially used. 
+2. No, because that's too much work just to test a function. 
